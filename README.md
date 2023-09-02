@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Shubham Sedani 👋
 
-<!--
-**shubhamsedani/shubhamsedani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a WordPress Developer and Contributor
+- 👯 Currently exploring open-source projects
+- 📫 How to reach me: shubhamsedani@gmail.com
+- ⚡ Fun fact: I am a chess player and swimmer
 
-Here are some ideas to get you started:
+## Connect with me
+<p><a href="https://github.com/shubhamsedani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shubham-sedani-3983751a1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/Shubham_sedani" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile Views
+
+<img src="https://profile-counter.glitch.me/shubhamsedani/count.svg">
+
+<br />
