@@ -16,7 +16,6 @@
 ### GitHub Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamsedani&show_icons=true&theme=gruvbox"  alt="Status graph" height="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsedani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" alt="languages graph"  height="196" />
-  <img src="https://streak-stats.demolab.com?user=shubhamsedani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" max-height="364" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamsedani&show_icons=true&theme=gruvbox"  alt="Status graph" height="auto" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsedani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" alt="languages graph"  width="49.5%"/>
 </div>
